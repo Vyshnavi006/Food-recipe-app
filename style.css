@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fefefe;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .app {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  input {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .recipe-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+    text-align: left;
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+  }
+  
